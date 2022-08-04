@@ -13,6 +13,7 @@
 		BD759D22289B21700091AEBB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD759D20289B21700091AEBB /* Main.storyboard */; };
 		BD759D24289B21720091AEBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD759D23289B21720091AEBB /* Assets.xcassets */; };
 		BD759D27289B21720091AEBB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD759D25289B21720091AEBB /* LaunchScreen.storyboard */; };
+		BD759D2F289C35B10091AEBB /* pop-39222.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BD759D2E289C35B10091AEBB /* pop-39222.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BD759D23289B21720091AEBB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD759D26289B21720091AEBB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD759D28289B21720091AEBB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD759D2E289C35B10091AEBB /* pop-39222.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "pop-39222.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BD759D1A289B21700091AEBB /* AppDelegate.swift */,
 				BD759D1C289B21700091AEBB /* SceneDelegate.swift */,
 				BD759D1E289B21700091AEBB /* ViewController.swift */,
+				BD759D2E289C35B10091AEBB /* pop-39222.mp3 */,
 				BD759D20289B21700091AEBB /* Main.storyboard */,
 				BD759D23289B21720091AEBB /* Assets.xcassets */,
 				BD759D25289B21720091AEBB /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD759D27289B21720091AEBB /* LaunchScreen.storyboard in Resources */,
+				BD759D2F289C35B10091AEBB /* pop-39222.mp3 in Resources */,
 				BD759D24289B21720091AEBB /* Assets.xcassets in Resources */,
 				BD759D22289B21700091AEBB /* Main.storyboard in Resources */,
 			);
